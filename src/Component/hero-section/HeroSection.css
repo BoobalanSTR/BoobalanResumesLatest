@@ -1,0 +1,31 @@
+.hire_btn{
+    background: chartreuse;
+    color: aquamarine;
+}
+.hire_btn a{
+text-decoration: none;
+font-weight: 500;
+}
+.hire_btn:hover a{
+color: blueviolet;
+}
+.hero_title span{
+    color: sandybrown;
+}
+.hero_title{
+    font-weight: 600;
+}
+.hero_img{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    background: blue;
+    margin-left: auto;
+}
+.hero_section{
+    padding-top: 150px;
+}
+.hero_content p{
+line-height: 30px;
+font-weight: 300;
+}

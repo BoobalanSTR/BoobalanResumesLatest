@@ -1,0 +1,53 @@
+.header{
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    line-height: 70px;
+    z-index: 1;
+}
+.logo h5{
+font-size: 1.3rem;
+color: cadetblue;
+}
+.nav_list{
+    display: flex;
+    align-items: center;
+    column-gap: 2.7rem;
+}
+.nav_item{
+    color: black;
+    transition: 0.3s;
+    text-decoration: none;
+    font-weight: 400;
+cursor: pointer;
+}
+.nav_item a:hover{
+    color: blueviolet;
+}
+.btn{
+    background: rgb(219, 135, 135);
+    color: red;
+    border: none;
+outline: none;
+border-radius: 5px;
+font-size: .9rem;
+padding: 7px 25px;
+}
+.btn:hover{
+color: whitesmoke;
+}
+.mobile_menu{
+    display: none;
+}
+.mobile_menu i{
+color: violet;
+font-size: 1.3rem;
+cursor: pointer;
+}
+.header_shrink{
+    background: wheat;
+    box-shadow: 2px 2px 4px -2px wheat;
+}
+

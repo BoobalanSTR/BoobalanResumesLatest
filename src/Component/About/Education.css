@@ -1,0 +1,22 @@
+.table{
+    border: none;
+    border-collapse: collapse;
+    border: 1px solid salmon;
+border-radius: 5px;
+}
+th,td{
+    padding: 1.3rem 1 rem !important;
+    font-size: 1 rem;
+}
+thead{
+    background: violet;
+    color: black;
+}
+td{
+    font-size: 0.9rem;
+    color: blue;
+    font-weight: 400;
+}
+tr:nth-child(even){
+    background: lawngreen;
+}
