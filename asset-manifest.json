@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BoobalanResumesLatest/static/css/main.5bfbffe6.css",
+    "main.js": "/BoobalanResumesLatest/static/js/main.542079d9.js",
+    "static/js/787.849ee051.chunk.js": "/BoobalanResumesLatest/static/js/787.849ee051.chunk.js",
+    "static/media/remixicon.svg?t=1590207869815": "/BoobalanResumesLatest/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/BoobalanResumesLatest/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/BoobalanResumesLatest/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/BoobalanResumesLatest/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/Image.jpg": "/BoobalanResumesLatest/static/media/Image.5569bf27d99277cc5466.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/BoobalanResumesLatest/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "index.html": "/BoobalanResumesLatest/index.html",
+    "main.5bfbffe6.css.map": "/BoobalanResumesLatest/static/css/main.5bfbffe6.css.map",
+    "main.542079d9.js.map": "/BoobalanResumesLatest/static/js/main.542079d9.js.map",
+    "787.849ee051.chunk.js.map": "/BoobalanResumesLatest/static/js/787.849ee051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfbffe6.css",
+    "static/js/main.542079d9.js"
+  ]
+}
